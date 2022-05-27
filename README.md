@@ -10,11 +10,11 @@ On Windows:
 
 2. Go to the main repo folder and run command:
 
-`uvicorn python_server_backend.app.api:app`
+`uvicorn app.api:app`
 
 or
 
-`uvicorn python_server_backend.app.api:app --reload`
+`uvicorn app.api:app --reload`
 
 for automatic server reload on change
 
