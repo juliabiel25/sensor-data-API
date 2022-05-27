@@ -1,7 +1,4 @@
-# Run instructions
-
-
-## Running the API server 🚀
+# Instructions for running the API server 🚀
 
 0. If using venv, activate it and install the required modules.
 
