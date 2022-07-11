@@ -8,7 +8,7 @@ On Windows:
 
 `pip install -r [path to the app\requirements.txt file]`
 
-2. Go to the main repo folder and run command:
+1. Go to the main repo folder and run command:
 
 `uvicorn app.api:app`
 
@@ -18,5 +18,5 @@ or
 
 for automatic server reload on change
 
-4. View the GUI of the API under:
+2. View the GUI of the API under:
 http://localhost:8000/docs
